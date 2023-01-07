@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header styles*/
+.header {
+    height: 808px;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+
+}
+
+.banner {
+    text-align: right;
+    padding-left: 845px;
+    padding-right: 230px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    padding-top: 216px;
+    padding-bottom: 24px;
+
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-bottom: 32px;
+}
+
+.btn {
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+}
+
+/* Failure of Previous year styles */
+
+.failure-pyear{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+   
+}
+.section-info{
+    padding-right: 310px;
+}
+.person-img {
+    padding-top: 130px;
+    padding-left: 206px;
+}
+
+.section-title {
+    padding-top: 370px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-bottom: 24px;
+
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-bottom: 16px;
+}
+
+.section-list {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+}
+/* plan section */
+.my-plans{
+    
+
+}
+.my-plan .section-title{
+    text-align: center;
+}
+.plan-container{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+}
+.plan{
+
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
